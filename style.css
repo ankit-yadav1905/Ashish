@@ -36,7 +36,7 @@ div p{
 }
 @media (max-width: 680px){
     h1{
-        font-size: 3rem;
+        font-size: 4rem;
         text-align: center;
     }
     .card{
